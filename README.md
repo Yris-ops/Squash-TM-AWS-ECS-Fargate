@@ -1,6 +1,6 @@
-# Squash TM on AWS ECS Fargate usign Terraform
+# Squash TM on AWS ECS Fargate using Terraform
 
-![Squash TM on AWS ECS Fargate usign Terraform](./img/SquashTMArchitecture.png)
+![Squash TM on AWS ECS Fargate using Terraform](./img/SquashTMArchitecture.png)
 
 This project automates the deployment of Squash TM on Amazon Web Services (AWS). It uses Terraform to describe and configure the resources required to run Squash TM on AWS ECS Fargate.
 
